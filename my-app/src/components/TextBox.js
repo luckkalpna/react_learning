@@ -5,6 +5,7 @@ export default function TextBox(props) {
         console.log("Upper case was Clicked");
         let newText = text.toUpperCase();
         setText(newText);
+        props.showAlert("Your text are change to uppercase", "success");
     }
 
     const handleOnChange = (event) =>{
