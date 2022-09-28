@@ -2,8 +2,15 @@ import logo from './logo.svg';
 import './App.css';
 import Navbar from './components/Navbar';
 import TextBox from './components/TextBox';
+// import About from './components/About';
 import Alert  from './components/Alert';
 import React, {useState} from 'react';
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  Link
+} from "react-router-dom";
 
 function App() {
   const [mode, setMode] = useState('light'); // Dark mode is enable or not
@@ -22,7 +29,7 @@ function App() {
   const toggleMode = () =>{
     if(mode === 'light'){
       setMode('dark');
-      document.body.style.backgroundColor = "#0e2b51"; 
+      document.body.style.backgroundColor = "#13466e"; 
       showAlert("Dark mode has been enabled", "success");
     }
     else{
@@ -34,11 +41,12 @@ function App() {
 
   return (  
         <>
-        <Navbar title="NotePad" contact="About Us" mode={mode} toggleMode={toggleMode}/>
+        <Navbar title="NotePad" contact="About" mode={mode} toggleMode={toggleMode}/>
         <Alert alert={alert}/> 
         <div className='container my-3'>
           <TextBox heading="Write here about yourself" mode={mode} showAlert={showAlert}/>
-        </div>
+            {/* <About mode={mode}/> */}
+        </div> 
         </>
   );
 }
