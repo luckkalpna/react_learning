@@ -13,7 +13,7 @@ export default function TextBox(props) {
         setText(event.target.value);
     }
 
-    const [text, setText] = useState("type here...");
+    const [text, setText] = useState("");
 	return (
         <div className="container" style ={{color: props.mode === 'dark'?'white':'#0e2b51'}}>
         <h1>{props.heading}</h1>
