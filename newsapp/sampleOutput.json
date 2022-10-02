@@ -1,56 +1,206 @@
 {
 	"status": "ok",
-	"totalResults": 10681,
+	"totalResults": 38,
 	"articles": [
 		{
-			"source": { "id": "reuters", "name": "Reuters" },
-			"author": null,
-			"title": "Cryptoverse: Bitcoin miners get stuck in a bear pit - Reuters",
-			"description": "Cryptoverse: Bitcoin miners get stuck in a bear pit  Reuters",
-			"url": "https://www.reuters.com/technology/cryptoverse-bitcoin-miners-get-stuck-bear-pit-2022-09-27/",
-			"urlToImage": "https://www.reuters.com/resizer/i0pAJuhLdd7LHa8MRf9_AOBX3ts=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OWRJ2G6AQNOSBCG2QYUETRASBY.jpg",
-			"publishedAt": "2022-09-27T05:13:00Z",
-			"content": "Sept 27 (Reuters) - Spare a thought for the beleaguered bitcoin miner.\r\nIn late 2021, miners were the toast of the town with a surefire path to profit: hook powerful computers up to cheap power, crac… [+3450 chars]"
+			"source": { "id": null, "name": "Republic World" },
+			"author": "Harsh Vardhan",
+			"title": "SpaceX's Falcon 9 makes it to NASA's launch pad for Crew-5 mission after Hurricane Ian - Republic World",
+			"description": "SpaceX's Falcon 9 rocket will launch with four astronauts under NASA's Crew-5 mission from the Kennedy Space Center at 9:30 pm IST on October 5.",
+			"url": "https://www.republicworld.com/science/space/spacexs-falcon-9-makes-it-to-nasas-launch-pad-for-crew-5-mission-after-hurricane-ian-articleshow.html",
+			"urlToImage": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/smhyngsmml2trw3t_1664703644.jpeg",
+			"publishedAt": "2022-10-02T09:52:00Z",
+			"content": "SpaceXs Falcon 9 rocket is standing tall at NASAs Kennedy Space Center (KSC) for the Crew-5 mission which is slated for lift-off on October 5. Mounted with the Crew Dragon Endurance spacecraft, the r… [+2062 chars]"
 		},
 		{
-			"source": { "id": "reuters", "name": "Reuters" },
-			"author": null,
-			"title": "Bitcoin once again slips below $20000 - Reuters",
-			"description": "Bitcoin on Sunday dropped 1.54% to $19,804, slipping from the 20,000 mark after losing $310 from its previous close.",
-			"url": "https://www.reuters.com/technology/bitcoin-once-again-slips-below-20000-2022-09-18/",
-			"urlToImage": "https://www.reuters.com/resizer/GinA1NFuisA5sivR91vluRb8SQo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TUWQZU5ZZJIF3HLCX5BGWH22LU.jpg",
-			"publishedAt": "2022-09-18T10:17:00Z",
-			"content": "Sept 18 (Reuters) - Bitcoin on Sunday dropped 1.54% to $19,804, slipping from the 20,000 mark after losing $310 from its previous close.\r\nThe world's biggest and best-known cryptocurrency is down 58.… [+372 chars]"
+			"source": { "id": null, "name": "Hindustan Times" },
+			"author": "HT Tech",
+			"title": "This SHOCKING Apple MacBook decision is now almost official - HT Tech",
+			"description": "In a shocking move, Apple is likely to skip the October launch event and announce the launch of MacBook Pros, iPads, among others via press releases.",
+			"url": "https://tech.hindustantimes.com/tech/news/this-shocking-apple-macbook-decision-is-now-almost-official-71664703069953.html",
+			"urlToImage": "https://images.hindustantimes.com/tech/img/2022/10/02/1600x900/IMG_4284_1657976137822_1664703188118_1664703188118.jpg",
+			"publishedAt": "2022-10-02T09:36:33Z",
+			"content": "Apple manages to surprise its fans and customers with most of its decisions. This time it has moved a step ahead and actually shocked them! May it be the lively launch events, new products to be laun… [+1899 chars]"
 		},
 		{
-			"source": { "id": "reuters", "name": "Reuters" },
-			"author": null,
-			"title": "Cryptoverse: Ether snaps at bitcoin's heels in race for crypto crown - Reuters.com",
-			"description": "For years, ether could barely dream of challenging its big brother bitcoin. Now, its ambitions may be becoming more realistic.",
-			"url": "https://www.reuters.com/technology/cryptoverse-ether-snaps-bitcoins-heels-race-crypto-crown-2022-09-13/",
-			"urlToImage": "https://www.reuters.com/resizer/D6UAwg9xkBVA9UviKEjSKPGTI3w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QQABWUBD6JJ3JJLRDJTC3IQMFI.jpg",
-			"publishedAt": "2022-09-13T05:12:00Z",
-			"content": "Sept 13 (Reuters) - For years, ether could barely dream of challenging its big brother bitcoin. Now, its ambitions may be becoming more realistic.\r\nThe second-biggest cryptocurrency is taking market … [+3625 chars]"
+			"source": { "id": null, "name": "Www.bgr.in" },
+			"author": "Shubham Verma",
+			"title": "Massive Pixel Watch leak reveals pre-order date and Fitbit offer - BGR India",
+			"description": "The Pixel Watch was spotted on Amazon with six months of Fitbit Premium for free corroborating a deep Fitbit integration in the upcoming Google watch.",
+			"url": "https://www.bgr.in/wearables/massive-pixel-watch-leak-reveals-pre-order-date-and-fitbit-offer-1329863/",
+			"urlToImage": "https://st1.bgr.in/wp-content/uploads/2022/10/pixelwatchleak.jpg",
+			"publishedAt": "2022-10-02T09:33:57Z",
+			"content": "Google has an event scheduled for October 6 where it will unveil the Pixel 7 and Pixel 7 Pro smartphones after announcing them back at the I/O conference in May. Tagging along will be Google’s first … [+2182 chars]"
 		},
 		{
-			"source": { "id": "bbc-news", "name": "BBC News" },
-			"author": "https://www.facebook.com/bbcnews",
-			"title": "Ethereum Merge: How one big cryptocurrency is going green",
-			"description": "Ethereum, which currently uses as much energy as a medium-sized country, is to halt cryptomining.",
-			"url": "https://www.bbc.co.uk/news/technology-62891715",
-			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5833/production/_126697522_66d3ee21-4213-480e-954e-f9574f987446.jpg",
-			"publishedAt": "2022-09-13T23:26:31Z",
-			"content": "By Joe TidyCyber reporter \r\nThe second biggest cryptocurrency, Ethereum, is about to switch over to a new operating model that uses 99.9% less energy.\r\nThe change, called The Merge, is designed to wi… [+5489 chars]"
+			"source": { "id": null, "name": "NDTV News" },
+			"author": null,
+			"title": "\"Open To Public Debate With...\": Shashi Tharoor Ahead Of Congress Chief Poll - NDTV",
+			"description": "Set for an electoral face-off with Congress veteran Mallikarjun Kharge for the Congress chief's post, Lok Sabha MP Shashi Tharoor on Sunday said he would be open to the idea of a public debate between the candidates",
+			"url": "https://www.ndtv.com/india-news/open-to-public-debate-with-shashi-tharoor-ahead-of-congress-chief-poll-3396680",
+			"urlToImage": "https://c.ndtvimg.com/2022-09/o62v53lg_shashi-tharoor-interview-ndtv_650x400_30_September_22.jpg",
+			"publishedAt": "2022-10-02T09:23:00Z",
+			"content": "More than 9,000 Pradesh Congress Committee (PCC) delegates will vote in the poll.\r\nNew Delhi: Set for an electoral face-off with Congress veteran Mallikarjun Kharge for the Congress chief's post, Lok… [+6041 chars]"
 		},
 		{
-			"source": { "id": "reuters", "name": "Reuters" },
+			"source": { "id": null, "name": "Hindustan Times" },
+			"author": "HT Tech",
+			"title": "Redmi Note 12 Pro Plus set to dethrone iQOO 10 Pro with its 210W charger - HT Tech",
+			"description": "After iQOO 10 Pro’s 200W option, Xiaomi is gearing up to launch Redmi Note 12 Pro Plus with 210W charging.",
+			"url": "https://tech.hindustantimes.com/mobile/news/redmi-note-12-pro-plus-set-to-dethrone-iqoo-10-pro-with-its-210w-charger-71664701992506.html",
+			"urlToImage": "https://images.hindustantimes.com/tech/img/2022/10/02/1600x900/IMG_3306_1648697438736_1664702121985_1664702121985.jpg",
+			"publishedAt": "2022-10-02T09:16:19Z",
+			"content": "While Xiaomi has been busy throughout this year launching the multiple variants of the Redmi 11 series, the company is now gearing to introduce the new Redmi Note 12 series. As per a report by GizChi… [+1718 chars]"
+		},
+		{
+			"source": { "id": null, "name": "NDTV News" },
 			"author": null,
-			"title": "A year on, El Salvador's bitcoin experiment is stumbling - Reuters",
-			"description": "A year after El Salvador adopted bitcoin as legal tender, the area where the world's first cryptocurrency city was meant to be built - a circular metropolis powered by a volcano - is still dense jungle.",
-			"url": "https://www.reuters.com/technology/year-el-salvadors-bitcoin-experiment-is-stumbling-2022-09-07/",
-			"urlToImage": "https://www.reuters.com/resizer/M2nfbcQlV8tRGnSyxgL1ckw_GCo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R5NQIKYDFJOPVKTTZCH3JCHMFM.jpg",
-			"publishedAt": "2022-09-07T11:22:00Z",
-			"content": "CONCHAGUA, El Salvador, Sept 7 (Reuters) - A year after El Salvador adopted bitcoin as legal tender, the area where the world's first cryptocurrency city was meant to be built - a circular metropolis… [+5145 chars]"
+			"title": "\"Should Have Laid Ground Better\": UK's Liz Truss Admits Tax Cuts Misstep - NDTV",
+			"description": "UK Prime Minister Liz Truss on Sunday conceded she should have better prepared Britain for her recent debt-fuelled mini-budget, which sparked a week of market turmoil, dismal headlines and disastrous polls.",
+			"url": "https://www.ndtv.com/world-news/should-have-laid-ground-better-uks-liz-truss-admits-tax-cuts-misstep-3396978",
+			"urlToImage": "https://c.ndtvimg.com/2022-09/q4ghv69_liz-truss-reuters-file-650_625x300_05_September_22.jpg",
+			"publishedAt": "2022-10-02T09:11:12Z",
+			"content": "She insisted her controversial plans would return Britain to economic growth (File)\r\nBritain: UK Prime Minister Liz Truss on Sunday conceded she should have better prepared Britain for her recent deb… [+4306 chars]"
+		},
+		{
+			"source": { "id": null, "name": "Hindustan Times" },
+			"author": "HT Entertainment Desk",
+			"title": "Bigg Boss fans make 'Kashmera shakal dekh apni' trend on Twitter - Hindustan Times",
+			"description": "Kashmera Shah has earned the wrath of Twitter with her latest tweet about support for Sajid Khan.",
+			"url": "https://www.hindustantimes.com/entertainment/tv/bigg-boss-fans-make-kashmera-shakal-dekh-apni-trend-on-twitter-101664699860206.html",
+			"urlToImage": "https://images.hindustantimes.com/img/2022/10/02/1600x900/kashmera-shah-bigg-boss_1664700048599_1664700048760_1664700048760.png",
+			"publishedAt": "2022-10-02T09:07:24Z",
+			"content": "Bigg Boss viewers and people in general are mighty unhappy with the entry of Sajid Khan on the 16th season of the show as contestant. On the premiere episode on Saturday, Sajid was introduced as the … [+2035 chars]"
+		},
+		{
+			"source": { "id": null, "name": "Hindustan Times" },
+			"author": "HT News Desk",
+			"title": "'We embarked on battle with the very ideology that killed Gandhi': Rahul Gandhi - Hindustan Times",
+			"description": "Rahul Gandhi, who visited a Khadi Gramodyaga Kendra in Karnataka's Badanavalu, said amid the politics of violence and lies, the Congress's ongoing ‘Bharat Jodo Yatra’ will spread a message of “ahimsa and 'swaraj”. | Latest News India",
+			"url": "https://www.hindustantimes.com/india-news/we-embarked-on-battle-with-the-very-ideology-that-killed-mahatma-gandhi-rahul-gandhi-101664698871966.html",
+			"urlToImage": "https://images.hindustantimes.com/img/2022/10/02/1600x900/PTI10-02-2022-000048A-0_1664700562141_1664700562141_1664700577301_1664700577301.jpg",
+			"publishedAt": "2022-10-02T08:56:56Z",
+			"content": "Congress MP Rahul Gandhi on Sunday paid tributes to Mahatma Gandhi on his 153rd birth anniversary and said while it is convenient for those in power to appropriate the legacy of the Father of the Nat… [+1930 chars]"
+		},
+		{
+			"source": { "id": null, "name": "DNA India" },
+			"author": "DNA Web Team",
+			"title": "New medication found that can turn COVID-19 against itself - DNA India",
+			"description": "SARS-C0V-2 causes the COVID-19 virus is also evolving and mutating, leading to the formation of new variants.",
+			"url": "https://www.dnaindia.com/health/report-new-medication-found-that-can-turn-covid-19-against-itself-2989591",
+			"urlToImage": "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2022/10/02/2543052-untitled-design-2022-10-02t140102.036.png",
+			"publishedAt": "2022-10-02T08:18:00Z",
+			"content": "SARS-C0V-2 causes the COVID-19 virus is also evolving and mutating, leading to the formation of new variants.\r\nReported By:| Edited By: DNA Web Team |Source: DNA Web Desk |Updated: Oct 02, 2022, 02:0… [+1023 chars]"
+		},
+		{
+			"source": { "id": null, "name": "The Indian Express" },
+			"author": "Science Desk",
+			"title": "Skywatching in October 2022: Mars changing course, Orionid meteor shower, and more - The Indian Express",
+			"description": "Skywatching in October: From Jupiter and Saturn, to Mars in retrograde, to the Orionid meteor shower, here is what stargazers can expect from the night sky through the month of October.",
+			"url": "https://indianexpress.com/article/technology/science/skywatching-october-mars-retrograde-orionid-meteor-shower-jupiter-saturn-8185561/",
+			"urlToImage": "https://images.indianexpress.com/2022/10/Skywatching-in-October-20221002.jpg",
+			"publishedAt": "2022-10-02T07:56:42Z",
+			"content": "According to NASA, October is going to be an interesting month for stargazers as the giant planets Jupiter and Saturn will be visible in the night sky throughout the month. Apart from that, Mars will… [+2079 chars]"
+		},
+		{
+			"source": { "id": null, "name": "Hindustan Times" },
+			"author": "HT News Desk, hindustantimes.com",
+			"title": "LIVE: Bihar agriculture minister Sudhakar Singh resigns - Hindustan Times",
+			"description": "Breaking news October 2, 2022: Get latest news, breaking news, latest updates, live news, top headlines, breaking business news and top news of the hour.",
+			"url": "https://www.hindustantimes.com/india-news/breaking-news-live-updates-today-october-2-2022-101664669552184.html",
+			"urlToImage": "https://images.hindustantimes.com/img/2022/10/02/1600x900/Breaking-News-Live-Blog-pic_1626307942790_1664669588097_1664669588097.jpg",
+			"publishedAt": "2022-10-02T07:39:03Z",
+			"content": "Bihar agriculture minister Sudhakar Singh, who criticised his own government, resigns\r\nBihar agriculture minister Sudhakar Singh, who recently criticised his own governments policies by questioning t… [+132 chars]"
+		},
+		{
+			"source": { "id": null, "name": "Hindustan Times" },
+			"author": "HT News Desk",
+			"title": "Bihar agriculture minister Sudhakar Singh, who criticised own govt, resigns - Hindustan Times",
+			"description": "The RJD MLA had recently flagged the issue of corruption in his department and on Saturday, he said he would not allow the “continuation of BJP agenda” in his department with the formation of the Grand Alliance government in the state.",
+			"url": "https://www.hindustantimes.com/cities/patna-news/bihar-agriculture-minister-sudhakar-singh-who-criticised-own-govt-resigns-101664695892957.html",
+			"urlToImage": "https://images.hindustantimes.com/img/2022/10/02/1600x900/5f747148-32ba-11ed-ae53-04438ab0d081_1663001360939_1664696164211_1664696164211.jpg",
+			"publishedAt": "2022-10-02T07:37:46Z",
+			"content": "Bihar agriculture minister Sudhakar Singh, who recently criticised his own governments policies by questioning the agriculture road maps, has resigned, his father and Rashtriya Janata Dal's Bihar pre… [+2862 chars]"
+		},
+		{
+			"source": { "id": null, "name": "Hindustan Times" },
+			"author": "HT Auto Desk",
+			"title": "Royal Enfield sees two-fold rise in sales in September at 82,097 units - HT Auto",
+			"description": "Royal Enfield has attributed the growth in sales to a good start to the festive season this year as well as the robust response received on the launch of Hunter 350.",
+			"url": "https://auto.hindustantimes.com/auto/news/royal-enfield-sees-two-fold-rise-in-sales-in-september-at-82-097-units-41664691394393.html",
+			"urlToImage": "https://images.hindustantimes.com/auto/img/2022/10/02/1600x900/Royal_Enfield_Scram_411_1663251195200_1664692648732_1664692648732.png",
+			"publishedAt": "2022-10-02T07:27:10Z",
+			"content": "Two-wheeler major Royal Enfield has reported a two-fold increase in total sales in September at at 82,097 units as compared to 33,529 units sold in the same month last year, registering a growth of 1… [+1879 chars]"
+		},
+		{
+			"source": { "id": null, "name": "NDTV News" },
+			"author": null,
+			"title": "Indonesia Football Match Stampede Kills 174, Among Worst Sports Tragedies - NDTV",
+			"description": "At least 174 people died at an Indonesian football stadium when thousands of angry home fans invaded the pitch and police responded with tear gas that triggered a stampede, authorities said Sunday.",
+			"url": "https://www.ndtv.com/world-news/indonesia-indonesia-football-match-stampede-kills-174-among-worst-sports-tragedies-3396723",
+			"urlToImage": "https://c.ndtvimg.com/2022-10/9409sa88_indonesia-stampede_625x300_02_October_22.jpg",
+			"publishedAt": "2022-10-02T07:07:30Z",
+			"content": "Indonesia: Many of the victims were trampled or choked to death, according to police.\r\nJakarta: At least 174 people died at an Indonesian football stadium when thousands of angry home fans invaded th… [+4223 chars]"
+		},
+		{
+			"source": { "id": null, "name": "Koimoi" },
+			"author": "Joginder Tuteja",
+			"title": "Vikram Vedha Box Office Day 2: Hrithik Roshan & Saif Ali Khan Starrer Shows Some Growth On Saturday - Koimoi",
+			"description": "After collecting 10.58 crores on Friday, it was a better Saturday for Vikram Vedha as a jump was seen. Read to know more!",
+			"url": "https://www.koimoi.com/?p=929188",
+			"urlToImage": "https://static-koimoi.akamaized.net/wp-content/new-galleries/2022/10/box-office-vikram-vedha-shows-some-growth-on-saturday-0001.jpg",
+			"publishedAt": "2022-10-02T06:58:51Z",
+			"content": "Box Office – Vikram Vedha shows some growth on Saturday (Pic Credit: Movie Still)\r\nAfter collecting 10.58 crores on Friday, it was a better Saturday for Vikram Vedha. Yes, the collections needed to j… [+1707 chars]"
+		},
+		{
+			"source": { "id": null, "name": "Hindustan Times" },
+			"author": "HT News Desk",
+			"title": "Accused in Moose Wala murder case, a Bishnoi aide, escapes custody in Punjab - Hindustan Times",
+			"description": "Sidhu Moose Wala murder case: Deepak Tinu was said to be a close aide of gangster Lawrence Bishnoi.  | Latest News India",
+			"url": "https://www.hindustantimes.com/india-news/accused-in-moose-wala-murder-case-a-bishnoi-aide-escapes-custody-in-punjab-101664693077715.html",
+			"urlToImage": "https://images.hindustantimes.com/img/2022/10/02/1600x900/d55eac62-2972-11ed-bc83-9c2713d606c3_1661980946120_1664693195871_1664693195871.jpg",
+			"publishedAt": "2022-10-02T06:47:35Z",
+			"content": "An accused in the Sidhu Moose Wala murder case, who is said to be a close aide of gangster Lawrence Bishnoi, is reported to have escaped from the Mansa Police's Crime Investigation Agency (CIA) unit'… [+1502 chars]"
+		},
+		{
+			"source": { "id": null, "name": "NDTV News" },
+			"author": "NDTV Sports Desk",
+			"title": "\"360 Bit Too Much To Ask, Just Play 180 Degrees\": Wasim Akram On Pakistan Batters - NDTV Sports",
+			"description": "Former Pakistan captain Wasim Akram came down hard on the batters of Babar Azam-led side after the hosts stumbled to an eight-wicket loss in the sixth T20I against England",
+			"url": "https://sports.ndtv.com/cricket/360-bit-too-much-to-ask-just-play-180-degrees-wasim-akram-on-pakistan-batters-3396688",
+			"urlToImage": "https://c.ndtvimg.com/2022-10/v8lvgqog_asif-ali-afp_625x300_02_October_22.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=675",
+			"publishedAt": "2022-10-02T06:40:22Z",
+			"content": "Former Pakistan captain Wasim Akram came down hard on the batters of Babar Azam-led side after the hosts stumbled to an eight-wicket loss in the sixth T20I against England on Friday. In a chat with P… [+1716 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "Ankit Saproo",
+			"title": "Tulsi Tanti, the visionary who founded Suzlon and saw the power of renewables before others - Economic Times",
+			"description": "Tulsi Tanti Death: Tulsi Tanti was the poster boy of India's wind energy boom and his ascent was driven by acquisitions at a rapid clip. The ambition to be the market leader in the wind energy space culminated in Suzlon capturing a 50 per cent of the market i…",
+			"url": "https://economictimes.indiatimes.com/industry/renewables/tulsi-tanti-the-visionary-who-founded-suzlon-and-saw-the-power-of-renewables-before-others/articleshow/94595668.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-94595650,width-1070,height-580,imgsize-68834,overlay-economictimes/photo.jpg",
+			"publishedAt": "2022-10-02T05:29:00Z",
+			"content": "India's steady march in the renewable energy sector is a result of the government's push as well as the interest shown by the private sector resulting in massive investments and acquisitions happenin… [+3380 chars]"
+		},
+		{
+			"source": { "id": null, "name": "Crictracker.com" },
+			"author": "CricTracker Staff",
+			"title": "IND vs SA Match Prediction – Who will win today’s match? - CricTracker",
+			"description": "The T20I series between India and South Africa started off with the hosts clinching a comprehensive win in the first game, taking a 1-0 lead. After a dominant effort by the bowlers in the first inning",
+			"url": "https://www.crictracker.com/cricket-match-predictions/ind-vs-sa-2nd-t20i-match-prediction-who-will-win-todays-match/",
+			"urlToImage": "https://media.crictracker.com/media/attachments/1664384188730_Team-India-9.jpeg",
+			"publishedAt": "2022-10-02T05:15:00Z",
+			"content": "The T20I series between India and South Africa started off with the hosts clinching a comprehensive win in the first game, taking a 1-0 lead. After a dominant effort by the bowlers in the first innin… [+2248 chars]"
+		},
+		{
+			"source": { "id": null, "name": "The Indian Express" },
+			"author": "Entertainment Desk",
+			"title": "Ponniyin Selvan 1 box office collection Day 2: Mani Ratnam's historical drama shatters new records, here's how much it earned - The Indian Express",
+			"description": "Ponniyin Selvan Part 1 box office collection Day 2: Mani Ratnam's historical drama continues to shatter records on its second day.",
+			"url": "https://indianexpress.com/article/entertainment/tamil/ponniyin-selvan-1-box-office-collection-mani-ratnam-aishwarya-rai-vikram-new-records-8185228/",
+			"urlToImage": "https://images.indianexpress.com/2022/09/Trisha-Krishnan-1200by667.jpg",
+			"publishedAt": "2022-10-02T04:10:58Z",
+			"content": "Mani Ratnam’s Ponniyin Selvan Part I continues to shatter records at the box office. After a terrific opening, the historical drama saw a 40 per cent jump in collections of the Hindi version, bringin… [+1768 chars]"
 		}
 	]
 }
