@@ -9,13 +9,13 @@ class News extends Component {
     static defaultProps = {
         country: "in",
         pageSize: 6,
-        category: "general",
+        category: "general"
     }
 
     // static PropTypes = {
     //     country: PropTypes.string,
     //     pageSize: PropTypes.number,
-    //     category: PropTypes.string,
+    //     category: PropTypes.string
     // }
     
 
@@ -82,7 +82,7 @@ class News extends Component {
                     <div className="row">
                     {!this.state.loading && this.state.articles.map((element)=>{
                         return <div className="col-md-4" key={element.url}>
-                        <NewsItem title={element.title?element.title:""} description={element.description?element.description:""} imageUrl={element.urlToImage}/>
+                        <NewsItem title={element.title?element.title:""} description={element.description?element.description:""} imageUrl={element.urlToImage} author={element.author} date={element.publishedAt}/>
                         </div>
                         })}
                     </div>
