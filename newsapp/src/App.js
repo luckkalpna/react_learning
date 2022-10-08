@@ -10,11 +10,12 @@ import {
 } from "react-router-dom";
 
 export default class App extends Component {
+  pageSize = 6;
   render() {
     return (
       <div>
         <Navbar/> 
-          <News pageSize={6} country="in" category="science"/>
+          <News pageSize={this.pageSize} country="in" category="science"/>
       </div>
     );
   }
