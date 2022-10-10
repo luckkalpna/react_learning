@@ -23,7 +23,7 @@ class News extends Component {
 			articles: [],
 			loading: false,
 			page: 1,
-      totalResults: 0
+			totalResults: 0,
 		};
 	}
 
@@ -86,18 +86,18 @@ class News extends Component {
 		this.updateNews();
 	};
 
-  fetchMoreData = async () => {
-      this.setState({page: this.state.page + 1})
-      const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=b8b3c2888e824b29af9ceb487d5c93ff&page=${this.state.page}&pageSize=${this.props.pageSize}`;
+	fetchMoreData = async () => {
+		this.setState({ page: this.state.page + 1 });
+		const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=b8b3c2888e824b29af9ceb487d5c93ff&page=${this.state.page}&pageSize=${this.props.pageSize}`;
 		this.setState({ loading: true });
 		let data = await fetch(url);
 		let parsedData = await data.json();
 		// console.log(parsedData);
 		this.setState({
 			articles: this.state.articles.concat(parsedData.articles),
-			totalResults: parsedData.totalResults
+			totalResults: parsedData.totalResults,
 		});
-  };
+	};
 
 	render() {
 		return (
@@ -108,29 +108,29 @@ class News extends Component {
 						dataLength={this.state.articles.length}
 						next={this.fetchMoreData}
 						hasMore={this.state.articles.length !== this.totalResults}
-						loader={<Spinner/>}
+						loader={<Spinner />}
 					>
-            <div className="container">
-              <div className="row">
-                {this.state.articles.map((element) => {
-                  return (
-                    <div className="col-md-4" key={element.url}>
-                      <NewsItem
-                        title={element.title ? element.title : ""}
-                        description={
-                          element.description ? element.description : ""
-                        }
-                        imageUrl={element.urlToImage}
-                        author={element.author}
-                        date={element.publishedAt}
-                      />
-                    </div>
-                  );
-                })}
-              </div>
-            </div>
+						<div className="container">
+							<div className="row">
+								{this.state.articles.map((element) => {
+									return (
+										<div className="col-md-4" key={element.url}>
+											<NewsItem
+												title={element.title ? element.title : ""}
+												description={
+													element.description ? element.description : ""
+												}
+												imageUrl={element.urlToImage}
+												author={element.author}
+												date={element.publishedAt}
+											/>
+										</div>
+									);
+								})}
+							</div>
+						</div>
 
-					{/* <div className="container d-flex justify-content-between">
+						{/* <div className="container d-flex justify-content-between">
 						<button
 							disabled={this.state.page <= 1}
 							type="button"
@@ -151,7 +151,7 @@ class News extends Component {
 							Next &raquo;
 						</button>
 					</div> */}
-          </InfiniteScroll>
+					</InfiniteScroll>
 				</div>
 			</>
 		);
