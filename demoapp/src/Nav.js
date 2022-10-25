@@ -7,12 +7,15 @@ function Nav() {
 		<nav className="nav">
       <h1>Logo</h1>
       <ul className="nav-links">
-        <Link to ='/about'>
-        <li>About</li>
-        </Link>
-        <Link to ='/contact'>
-        <li>Contact Us</li>
-        </Link>
+        <li>
+        <Link to ='/'>Home</Link>
+        </li>
+        <li>
+          <Link to ='/about'>About</Link>
+        </li>
+        <li>
+          <Link to ='/contact'>Contact Us</Link>
+        </li>
       </ul>
     </nav>
 	);
