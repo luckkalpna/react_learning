@@ -8,8 +8,16 @@
 }
 
 .nav-links{
-  width: 20%;
   display: flex;
   list-style: none;
-  justify-content: space-around;
 }
+
+.navStyle{
+  color: white;
+  list-style: none;
+  margin-left: 2em;
+}
+
+li{
+  list-style: none;
+}  
