@@ -1,9 +1,9 @@
 import React from 'react';
 
-function Info() {
+function Info(props) {
 	return (
 		<div>
-            <h1>Information</h1>
+            <h1>You are visite info Page</h1>
         </div>
 	);
 }
