@@ -11,6 +11,7 @@ import {
   Route,
   Link
 } from "react-router-dom";
+import Tabs from './components/Tabs';
 
 function App() {
   const [mode, setMode] = useState('light'); // Dark mode is enable or not
@@ -58,6 +59,7 @@ function App() {
           <TextBox heading="Write here about yourself" mode={mode} showAlert={showAlert}/>
             {/* <About mode={mode}/> */}
         </div> 
+        <Tabs/>
         </>
   );
 }
